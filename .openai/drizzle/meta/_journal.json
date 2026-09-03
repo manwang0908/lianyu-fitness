@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788425346380,
+      "tag": "0000_youthful_killmonger",
+      "breakpoints": true
+    }
+  ]
+}
