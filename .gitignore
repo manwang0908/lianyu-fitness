@@ -1,0 +1,19 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+.local/
+
+# Local credentials, data exports and deployment scratch files
+.dev.vars
+.dev.vars.*
+.wrangler/
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+work/
+backups/
